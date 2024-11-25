@@ -1,0 +1,4 @@
+# ARCHIVOS Y CARPETAS IGNORADAS
+
+*.xsd
+top_secret/
